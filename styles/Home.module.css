@@ -1,0 +1,8 @@
+.locationButton {
+	background-color: black;
+	color: white;
+	text-decoration: none;
+	padding: 0.5rem 1rem;
+	border-radius: 5px;
+	margin: 1rem 0rem;
+}
